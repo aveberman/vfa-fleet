@@ -8,7 +8,9 @@ Avery J.L. Berman, William A. Grissom, Thomas Witzel, Shahin Nasr, Daniel J. Par
 
 It is available on arXiv at [link to arXiv].
 
-**Note:** A version of the preprint has been accepted for publication at [*Magnetic Resonance in Medicine*](https://onlinelibrary.wiley.com/journal/15222594) with the DOI:10.1002/mrm.28415 (link to be provided once available)
+**Note:** A version of the preprint has been accepted for publication at [*Magnetic Resonance in Medicine*](https://onlinelibrary.wiley.com/journal/15222594) with the DOI:10.1002/mrm.28415 (link to be provided once available).
+
+For the code used in the recursive RF pulse design introduced in the manuscript, please visit https://github.com/wgrissom/vfa-fleet-RF.
 
 ## Video Captions
 
