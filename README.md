@@ -6,7 +6,7 @@ Included here are the supporting videos for our preprint
 Avery J.L. Berman, William A. Grissom, Thomas Witzel, Shahin Nasr, Daniel J. Park, Kawin Setsompop, Jonathan R. Polimeni
 
 
-It is available on arXiv at [link to arXiv].
+It is available on arXiv at https://arxiv.org/abs/2007.01950.
 
 **Note:** A version of the preprint has been accepted for publication at [*Magnetic Resonance in Medicine*](https://onlinelibrary.wiley.com/journal/15222594) with the DOI:10.1002/mrm.28415 (link to be provided once available).
 
